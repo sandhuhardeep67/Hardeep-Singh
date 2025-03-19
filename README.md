@@ -4,6 +4,17 @@
   <img src="https://raw.githubusercontent.com/sandhuhardeep67/Hardeep-Singh/main/Image1.png" width="750" height="550">
 </p>
 
+
+<p align="center">
+<a href="https://www.linkedin.com/in/hardeep-singh-988a60331/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+  <a href="https://sandhuhardeep67.github.io/Hardeep67.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-skyblue?logo=google-chrome&logoColor=white" alt="Website">
+</a>
+</p>
+
+
 👩‍💻 About Me: 
 
 💡 Aspiring Data Analyst with a strong foundation in Power BI & SQL
