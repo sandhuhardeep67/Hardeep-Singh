@@ -1,14 +1,8 @@
 <h1 align="center">Welcome to My Repository 👋</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sandhuhardeep67/Hardeep-Singh/main/Image1.png" width="600" height="250">
+  <img src="https://raw.githubusercontent.com/sandhuhardeep67/Hardeep-Singh/main/Image1.png" width="750" height="550">
 </p>
-<br><br>
-
-
-
-
-
 
 👩‍💻 About Me: 
 
