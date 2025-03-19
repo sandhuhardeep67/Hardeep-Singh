@@ -20,7 +20,6 @@
 
 🐍 Exploring Python for Data Analysis to enhance my technical toolkit
 
-🤝 Open to collaborations, internships, and Power BI-related opportunities
 <br><br>
 
 
