@@ -23,7 +23,7 @@
 
 📊 Proficient in Power BI Dashboards, Data Visualization & Row-Level Security (RLS)
 
-🐍 Exploring Python for Data Analysis to enhance my technical toolkit
+🐍 Exploring Python for Data Analysis to enhance my technical toolkit.
 
 <br><br>
 
