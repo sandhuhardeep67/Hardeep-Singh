@@ -14,7 +14,7 @@
 </p>
 
 
-👩‍💻 About Me: 
+👩‍💻 **About Me:**  
 
 💡 Aspiring Data Analyst with a strong foundation in Power BI & SQL
 
@@ -24,10 +24,8 @@
 
 🐍 Exploring Python for Data Analysis to enhance my technical toolkit.
 
-<br><br>
 
-
-🌍 Beyond Data:
+🌍 **Beyond Data:** 
 
 🏡 Helping manage my family's dairy & agriculture business
 
